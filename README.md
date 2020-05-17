@@ -1,5 +1,5 @@
 # AWS External URL for Project Verification
-[Insert URL here]
+a0b4cd4d481804b04bc212ef6bb0fe75-223636786.eu-west-2.elb.amazonaws.com
 
 # Deploying a Flask API
 
